@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Swinii
-- 👀 I’m interested in ...coding projects and coding community
-- 🌱 I’m currently learning ...java programming language, data structure and algorithms
-- 💞️ I’m looking to collaborate on ...coding projects
+- 👀 I’m interested in ...coding projects and technical community
+- 🌱 I’m currently learning ...java programming language, python ,data structure and algorithms
+- 💞️ I’m looking to collaborate on ...coding projects , development projects(web application), Data Science field
 - 📫 How to reach me ...dm me
 
 <!---
